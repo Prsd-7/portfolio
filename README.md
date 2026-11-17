@@ -4,7 +4,7 @@ A responsive, performance-optimised portfolio built with React 18 and Vite 8,
 showcasing five production projects: ShopKart, BiteBox, BiteBox V2, ChaloChale,
 and the DEMS Evidence System.
 
-**Live site:** (fill in after Step 4)
+**Live site:** <https://portfolio-hazel-nine-lrakzng3d2.vercel.app/>
 
 ---
 
@@ -31,3 +31,7 @@ and the DEMS Evidence System.
 ```bash
 npm install
 npm run dev
+
+## Repository
+
+https://github.com/Prsd-7/portfolio
